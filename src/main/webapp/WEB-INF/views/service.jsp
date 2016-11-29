@@ -35,7 +35,7 @@
         </div>
         <div class="col-md-4 col-sm-6">
             <div class="thumbnail">
-                <img src="<c:url value="/resources/images/photos/concrete.png" />" alt="...">
+                <img src="<c:url value="/resources/images/photos/7.png" />" alt="...">
                 <div class="caption">
                     <h3>Design</h3>
                     <ul>
@@ -50,7 +50,7 @@
 
         <div class="col-md-4 col-sm-6">
             <div class="thumbnail">
-                <img src="<c:url value="/resources/images/photos/service.png" />" alt="...">
+                <img src="<c:url value="/resources/images/photos/6.png" />" alt="...">
                 <div class="caption">
                     <h3>Concrete</h3>
                     <ul>
@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-4 col-sm-6">
             <div class="thumbnail">
-                <img src="<c:url value="/resources/images/photos/framing.png" />" alt="...">
+                <img src="<c:url value="/resources/images/photos/8.png" />" alt="...">
                 <div class="caption">
                     <h3>Framing</h3>
                     <ul>
