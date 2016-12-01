@@ -17,6 +17,7 @@
         <property name="url" value="jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/heroku_ec731ae036a7dda?reconnect=true"/>
         <property name="username" value="bd1ab91444f5a8"/>
         <property name="password" value="38b2389d"/>
+        
         <!--<property name="driverClassName" value="org.h2.Driver" />-->
         <!--<property name="url" value="jdbc:h2:tcp://localhost/~/test" />-->
         <!--<property name="username" value="sa" />-->
@@ -31,6 +32,7 @@
                 <prop key="hibernate.hbm2ddl.auto">update</prop>
                 <prop key="hibernate.show_sql">false</prop>
                 <prop key="hibernate.format_sql">true</prop>
+
             </props>
         </property>
         <property name="packagesToScan">
