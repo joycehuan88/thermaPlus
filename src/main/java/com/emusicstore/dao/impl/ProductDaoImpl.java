@@ -62,6 +62,7 @@ public class ProductDaoImpl implements ProductDao {
         Session session = sessionFactory.getCurrentSession();
         Query query = session.createQuery("from Product where productCategory = ?");
         query.setString(0,category);
+        session.flush();
 
         return query.list();
     }

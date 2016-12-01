@@ -40,6 +40,7 @@ public class CartItemDaoImpl implements CartItemDao {
         for (CartItem item : cartItems) {
             removeCartItem(item);
         }
+
     }
 
 

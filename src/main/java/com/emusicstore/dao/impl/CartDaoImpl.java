@@ -26,6 +26,7 @@ public class CartDaoImpl implements CartDao{
 
     public Cart getCartById (int cartId) {
         Session session = sessionFactory.getCurrentSession();
+        session.flush();
         return (Cart) session.get(Cart.class, cartId);
     }
 
@@ -36,6 +37,7 @@ public class CartDaoImpl implements CartDao{
 
         Session session = sessionFactory.getCurrentSession();
         session.saveOrUpdate(cart);
+        session.flush();
     }
 
     public Cart validate(int cartId) throws IOException {
