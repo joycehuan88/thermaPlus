@@ -134,7 +134,7 @@
                     </div>
                     <div class="col-md-3 product-left">
                         <div class="product-main simpleCart_shelfItem">
-                            <a href="<spring:url value="/product/viewProduct/${products.get(7).productId}" />" class="mask"><img class="img-responsive zoom-img" src="<c:url value="/resources/images/photos/9.jpg" />"
+                            <a href="<spring:url value="/product/viewProduct/${products.get(7).productId}" />" class="mask"><img class="img-responsive zoom-img" src="<c:url value="/resources/images/photos/9.png" />"
                                                                     alt=""/></a>
                             <div class="product-bottom">
                                 <h3>${products.get(7).productName}</h3>
