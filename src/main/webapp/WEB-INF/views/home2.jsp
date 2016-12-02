@@ -77,10 +77,10 @@
             <p>The assembly process goes as follows:</p>
             <ol>
                 <li>Wall layout</li>
-                <li>Install the ThermaTracks®</li>
+                <li>Install the ThermaTracks</li>
                 <li>Install Temporary form-ply around the parameter</li>
-                <li>Install the ThermaStuds® using the ThermaTies®</li>
-                <li>Install the ThermaFoam® panels</li>
+                <li>Install the ThermaStuds using the ThermaTies</li>
+                <li>Install the ThermaFoam panels</li>
             </ol>
 
         </div>
@@ -89,22 +89,22 @@
 
     <div class="row">
         <div class="col-md-3 col-sm-6">
-            <p>ThermaTrack@</p>
+            <p>ThermaTrack</p>
             <img class="thumbnail img-rounded" src="<c:url value="/resources/images/photos/2.png" />"  width="200" height="200" alt="">
 
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>ThermaBars@</p>
+            <p>ThermaBars</p>
             <img class="thumbnail img-rounded" src="<c:url value="/resources/images/photos/3.png" />"  width="200" height="200" alt="">
 
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>ThermaTies@</p>
+            <p>ThermaTies</p>
             <img class="thumbnail img-rounded" src="<c:url value="/resources/images/photos/4.png" />" alt="" width="200" height="200">
 
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>ThermaFoams@</p>
+            <p>ThermaFoams</p>
             <img class="thumbnail img-rounded" src="<c:url value="/resources/images/photos/5.png" />"  alt="" width="200" height="200">
 
         </div>
